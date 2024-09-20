@@ -1,0 +1,14 @@
+c:\Users\Oscar\Desktop\PPA\H1\bin\Debug\net8.0\H1.exe
+c:\Users\Oscar\Desktop\PPA\H1\bin\Debug\net8.0\H1.deps.json
+c:\Users\Oscar\Desktop\PPA\H1\bin\Debug\net8.0\H1.runtimeconfig.json
+c:\Users\Oscar\Desktop\PPA\H1\bin\Debug\net8.0\H1.dll
+c:\Users\Oscar\Desktop\PPA\H1\bin\Debug\net8.0\H1.pdb
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.AssemblyInfoInputs.cache
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.AssemblyInfo.cs
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.csproj.CoreCompileInputs.cache
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.dll
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\refint\H1.dll
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.pdb
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\H1.genruntimeconfig.cache
+c:\Users\Oscar\Desktop\PPA\H1\obj\Debug\net8.0\ref\H1.dll
